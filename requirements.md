@@ -2,7 +2,6 @@ GebäudeReadModel hat
 * Gebäude
 * Etagen
 * Melder
-
 * und ist Basis für AuftagsCommandModel -> hat
   * Command Auftrag für Gebäude
 
